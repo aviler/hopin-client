@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/ssl">
+        <file alias="certificate">ssl/certificate.crt</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="alert">images/alert.png</file>
+        <file alias="hopin">images/hopin.png</file>
+    </qresource>
+</RCC>
