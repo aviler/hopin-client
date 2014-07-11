@@ -1,6 +1,8 @@
 hopin-client
 ============
 
+![alt tag](http://hopinness.files.wordpress.com/2014/02/hopin-screen2.png?w=700)
+
 Proof of Concept Client for hopin
 
 Hopin is a service to help people getting into the cryptocurrency world. The idea is to help people to mine together on the behalf of a single worker and equally sharing the coins mined based on how much each person's cpu time was shared to the network. This is just an idea I had, to help and encourage my friends to join crytocurrencies.
