@@ -10,6 +10,7 @@ Hopin is a service to help people getting into the cryptocurrency world. The ide
 You can check about the Hopin Server [here].(https://github.com/aviler/hopin-server)
 
 O hopin é um sistema cliente/servidor para facilitar e incentivar as pessoas a entrarem no mundo das criptomoedas. Com um aplicativo cliente mais simples de usar qualquer um pode deixar seu computador pessoal minerando criptomoedas de forma coletiva e dividindo as moedas geradas de forma proporcional ã quantidade de poder de processamento que a pessoa compartilhou.
+
 Saiba mais sobre o Hopin Server [aqui].(https://github.com/aviler/hopin-server)
 
 
